@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 # Innometrics-backend
 This is a backend implementation of innometrics. In order to run it, please, follow the steps.
 # Run depoyment.sh
